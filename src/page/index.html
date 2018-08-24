@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
+	<title>松下美健</title>
+	${ require('html-loader!../views/head.html') }
+	<link rel="stylesheet" href="../dll/<%= htmlWebpackPlugin.options.libCssName %>">
+</head>
+
+<body>
+	<div class="test"></div>
+	<img src="${require('../imgs/flow_.png')}" alt="">
+	<div id="container"></div>
+	<script src="../dll/<%= htmlWebpackPlugin.options.libJsName %>"></script>
+</body>
+
+</html>

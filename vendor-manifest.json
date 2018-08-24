@@ -1,0 +1,37 @@
+{
+    "name": "vendor_library",
+    "content": {
+        "./src/js/libs/idangerous.swiper.min.js": {
+            "id": 4,
+            "meta": {}
+        },
+        "./src/js/libs/fastclick.js": {
+            "id": 5,
+            "meta": {}
+        },
+        "./src/js/libs/touch.min.js": {
+            "id": 6,
+            "meta": {}
+        },
+        "./src/css/reset.css": {
+            "id": 7,
+            "meta": {}
+        },
+        "./src/css/idangerous.swiper.css": {
+            "id": 8,
+            "meta": {}
+        },
+        "./src/js/libs/jquery203.js": {
+            "id": 1,
+            "meta": {}
+        },
+        "./node_modules/._webpack@3.12.0@webpack/buildin/module.js": {
+            "id": 2,
+            "meta": {}
+        },
+        "./node_modules/._webpack@3.12.0@webpack/buildin/amd-options.js": {
+            "id": 3,
+            "meta": {}
+        }
+    }
+}

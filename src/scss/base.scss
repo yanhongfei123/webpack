@@ -1,0 +1,13 @@
+@import "common/_variables";
+@import "common/_reset";
+@import "common/_mixins";
+@import "common/_utilities";
+@import "common/_buttons";
+
+.clear:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.fl{ float: left; }
+.fr{float: right; }

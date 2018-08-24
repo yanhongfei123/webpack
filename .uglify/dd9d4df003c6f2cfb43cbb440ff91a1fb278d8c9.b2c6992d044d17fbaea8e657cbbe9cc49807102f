@@ -1,0 +1,1 @@
+{"stream":"/*! 生产环境代码全部压缩,Sun Jun 10 2018 12:31:22 GMT+0800 (中国标准时间) */\nwebpackJsonp([2],{17:function(n,t){},94:function(n,t,e){\"use strict\";function u(n){return n&&n.__esModule?n:{default:n}}e(95),e(96),e(17);var i=e(31),o=u(i),c=\"ES2015 is awesome\",f=\"kill, \"+c;(0,o.default)(\"#container\").text(f)},95:function(n,t){},96:function(n,t){}},[94]);"}
